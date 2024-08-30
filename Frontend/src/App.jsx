@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      
+      <h1 classroom='text-red-500'></h1>
        <Navbar/> 
     </>
   );
